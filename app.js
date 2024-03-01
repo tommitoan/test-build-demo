@@ -42,7 +42,7 @@ const html = `
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Welcome to Demo!</title>
+    <title>Happy anniversary!</title>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
     <script>
       setTimeout(() => {
@@ -83,7 +83,8 @@ const html = `
   </head>
   <body>
     <section>
-      Welcome to Demo! And this is branch: main
+      Happy 4 years anniversary <br>
+      Cục chồng ❤️ Cục Vợ
     </section>
   </body>
 </html>
