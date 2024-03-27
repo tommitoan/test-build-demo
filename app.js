@@ -83,7 +83,7 @@ const html = `
   </head>
   <body>
     <section>
-      Welcome to Demo! And this is branch: main
+      Welcome to Demo Oneclick! And this is branch:master
     </section>
   </body>
 </html>
